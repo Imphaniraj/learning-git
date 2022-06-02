@@ -6,4 +6,8 @@ commit
 restore
 push
 pull
-add remote and others
+add remote 
+branch - only create bracnh
+checkout - only checkout
+checkout -b branchname - "to create and checkout"
+and others
